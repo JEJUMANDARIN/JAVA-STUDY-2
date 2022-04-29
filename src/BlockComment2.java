@@ -1,11 +1,11 @@
 /*
-    파일이름: BlockComment.java
-    작성자: HIYOKO
-    작성일: 2022.04.29
-    목적: System.out.println 메소드의 기능 테스트
+ *   파일이름: BlockComment.java
+ *  작성자: HIYOKO
+ *  작성일: 2022.04.29
+ *  목적: System.out.println 메소드의 기능 테스트
  */
 
-public class BlockComment {
+public class BlockComment2 {
     public static void main(String[] args)
     {
         /* 다음은 단순한 정수의 출력 */
